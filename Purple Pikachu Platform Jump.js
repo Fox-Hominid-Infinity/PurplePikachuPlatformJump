@@ -5,12 +5,12 @@ var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"Purple Pikachu Platform Jump_atlas_1", frames: [[0,0,1695,1695]]},
 		{name:"Purple Pikachu Platform Jump_atlas_2", frames: [[0,0,1640,1440]]},
-		{name:"Purple Pikachu Platform Jump_atlas_3", frames: [[407,616,55,26],[1089,1734,54,26],[142,1847,118,155],[0,0,224,135],[355,1963,120,67],[895,1090,120,67],[998,1780,89,120],[537,966,90,120],[1957,1549,58,97],[0,701,58,97],[796,172,72,110],[537,1682,184,122],[717,646,177,146],[877,0,177,146],[877,148,177,146],[796,296,177,146],[783,444,177,146],[717,794,177,146],[310,818,177,146],[489,818,177,146],[668,942,177,146],[0,984,177,146],[179,984,177,146],[358,966,177,146],[847,942,177,146],[975,296,177,146],[1056,0,177,146],[1056,148,177,146],[962,444,177,146],[896,592,177,146],[896,740,177,146],[1026,888,177,146],[1154,296,177,146],[1235,0,177,146],[1235,148,177,146],[1141,444,177,146],[1075,592,177,146],[1075,740,177,146],[1026,1036,177,146],[358,1114,177,146],[0,1132,177,146],[179,1132,177,146],[537,1090,177,146],[716,1090,177,146],[895,1184,177,146],[358,1262,177,146],[0,1280,177,146],[179,1280,177,146],[537,1238,177,146],[716,1238,177,146],[1074,1184,177,146],[1205,888,177,146],[1333,296,177,146],[1414,0,177,146],[1414,148,177,146],[1320,444,177,146],[1254,592,177,146],[1254,740,177,146],[1205,1036,177,146],[1253,1184,177,146],[1384,888,177,146],[1499,444,177,146],[1593,0,177,146],[1593,148,177,146],[1512,296,177,146],[1433,592,177,146],[1433,740,177,146],[1384,1036,177,146],[1432,1184,177,146],[1563,888,177,146],[1612,592,177,146],[1691,296,177,146],[1772,0,177,146],[1772,148,177,146],[1678,444,177,146],[1612,740,177,146],[1563,1036,177,146],[1611,1184,177,146],[1742,888,177,146],[1742,1036,177,146],[1791,592,177,146],[1857,444,177,146],[1791,740,177,146],[1790,1184,177,146],[895,1332,177,146],[358,1410,177,146],[0,1428,177,146],[179,1428,177,146],[537,1386,177,146],[716,1386,177,146],[1074,1332,177,146],[1253,1332,177,146],[1432,1332,177,146],[1611,1332,177,146],[1790,1332,177,146],[895,1480,177,146],[358,1558,177,146],[0,1576,177,146],[179,1576,177,146],[537,1534,177,146],[716,1534,177,146],[1074,1480,177,146],[473,474,153,170],[97,640,153,170],[252,640,153,170],[628,474,153,170],[722,0,153,170],[641,172,153,170],[407,646,153,170],[0,812,153,170],[155,812,153,170],[562,646,153,170],[1188,1628,41,81],[651,1898,131,76],[265,523,204,91],[373,0,347,76],[373,78,347,76],[1867,1724,128,58],[719,1992,135,47],[1742,1888,135,47],[509,1806,140,114],[641,344,131,124],[723,1682,131,124],[986,1902,97,98],[793,1808,58,38],[226,0,145,197],[305,199,163,163],[358,1706,149,149],[895,1628,151,150],[1330,1801,176,65],[1444,1632,249,77],[0,1872,129,129],[310,966,39,14],[1444,1592,33,17],[793,1848,39,14],[1444,1611,33,17],[1463,1868,43,52],[373,156,88,40],[1870,296,140,146],[0,1724,140,146],[0,419,95,280],[0,137,102,280],[207,199,96,280],[1970,592,52,280],[1939,1883,45,124],[597,1976,120,67],[1444,1711,140,88],[1835,1586,120,67],[305,364,166,157],[1188,1714,140,88],[1923,1480,120,67],[97,481,166,157],[856,1780,140,88],[1799,1819,120,67],[470,156,166,157],[1667,1941,152,30],[651,1808,140,88],[986,1870,9,9],[1867,1655,120,67],[473,315,166,157],[1253,1480,233,110],[104,137,101,280],[1921,888,54,280],[793,1870,89,120],[1508,1801,90,120],[1951,0,68,280],[986,2002,88,40],[1879,1888,58,97],[1921,1784,58,97],[1668,1829,72,110],[1253,1592,189,120],[1835,1655,26,33],[834,1848,11,11],[1488,1480,153,150],[1867,1784,44,33],[1643,1586,44,33],[884,1971,100,71],[355,1857,138,104],[1330,1714,100,71],[1643,1480,138,104],[1463,1923,100,71],[1048,1628,138,104],[1565,1923,100,71],[1695,1586,138,104],[495,1922,100,99],[1783,1480,138,104],[884,1870,100,99],[1191,1804,97,97],[1089,1804,100,99],[1290,1868,97,97],[1389,1868,72,129],[1191,1903,97,97],[1600,1711,66,129],[1085,1905,97,97],[142,1724,158,121],[0,2003,133,32],[1695,1692,102,135],[1742,1829,40,57],[1799,1692,66,125],[262,1847,91,183]]},
+		{name:"Purple Pikachu Platform Jump_atlas_3", frames: [[0,0,1000,1000],[0,1002,1000,1000],[1002,0,1000,1000]]},
 		{name:"Purple Pikachu Platform Jump_atlas_4", frames: [[0,0,1468,589],[0,1484,1432,347],[893,591,932,548],[0,591,891,891]]},
-		{name:"Purple Pikachu Platform Jump_atlas_5", frames: [[1297,206,311,186],[803,1146,456,100],[994,745,306,193],[803,1248,452,98],[0,1186,293,385],[372,1880,244,157],[1284,1106,185,230],[1847,206,199,240],[963,1536,181,209],[0,1002,620,182],[592,647,383,182],[851,1348,252,157],[656,360,557,131],[615,493,466,152],[1658,1297,210,186],[1384,1726,146,223],[1829,448,199,240],[1563,443,264,185],[1870,1297,146,223],[1335,622,199,240],[1318,1346,210,186],[1530,1485,146,223],[1536,630,199,240],[1105,1348,211,186],[1737,690,199,240],[1083,493,250,250],[1329,1534,190,190],[1610,206,235,235],[1000,1747,190,190],[0,180,654,202],[622,1012,281,128],[1658,1138,252,157],[372,1573,251,305],[1335,394,226,226],[1192,1747,190,190],[756,0,718,178],[0,0,754,178],[656,180,639,178],[625,1779,373,178],[0,796,568,204],[295,1186,506,204],[0,590,590,204],[625,1573,336,204],[0,384,613,204],[1476,0,551,204],[994,940,288,204],[1704,932,226,204],[0,1852,370,179],[0,1573,370,277],[622,831,370,179],[295,1392,554,179],[1938,690,110,280],[1932,972,109,280],[1471,1114,185,230],[1302,864,199,240],[1532,1710,113,280],[1146,1536,181,209],[1647,1711,113,280],[1877,1716,110,280],[1762,1716,113,280],[1678,1485,144,224],[1503,872,199,240],[1824,1522,167,192]]},
+		{name:"Purple Pikachu Platform Jump_atlas_5", frames: [[1292,0,715,459],[892,555,719,458],[0,1015,1304,249],[0,575,890,423],[0,0,680,573],[682,0,608,553],[0,1851,1428,178],[889,1517,813,320],[0,1517,887,332],[0,1266,1304,249]]},
 		{name:"Purple Pikachu Platform Jump_atlas_6", frames: [[1027,1139,418,418],[1716,1448,320,470],[1447,1139,524,307],[488,1739,473,307],[0,0,1597,159],[0,1293,971,178],[0,1113,1025,178],[0,753,1122,178],[865,1559,849,178],[0,1473,863,178],[1124,753,918,178],[0,573,1192,178],[0,933,1104,178],[0,161,1242,204],[0,367,1117,204],[1244,161,799,204],[1106,933,923,204],[1194,367,592,350],[0,1653,486,307]]},
-		{name:"Purple Pikachu Platform Jump_atlas_7", frames: [[1292,0,715,459],[892,555,719,458],[0,1015,1304,249],[0,575,890,423],[0,0,680,573],[682,0,608,553],[0,1851,1428,178],[889,1517,813,320],[0,1517,887,332],[0,1266,1304,249]]},
-		{name:"Purple Pikachu Platform Jump_atlas_8", frames: [[0,0,1000,1000],[0,1002,1000,1000],[1002,0,1000,1000]]}
+		{name:"Purple Pikachu Platform Jump_atlas_7", frames: [[1297,206,311,186],[803,1146,456,100],[994,745,306,193],[803,1248,452,98],[0,1186,293,385],[372,1880,244,157],[1284,1106,185,230],[1847,206,199,240],[963,1536,181,209],[0,1002,620,182],[592,647,383,182],[851,1348,252,157],[656,360,557,131],[615,493,466,152],[1658,1297,210,186],[1384,1726,146,223],[1829,448,199,240],[1563,443,264,185],[1870,1297,146,223],[1335,622,199,240],[1318,1346,210,186],[1530,1485,146,223],[1536,630,199,240],[1105,1348,211,186],[1737,690,199,240],[1083,493,250,250],[1329,1534,190,190],[1610,206,235,235],[1000,1747,190,190],[0,180,654,202],[622,1012,281,128],[1658,1138,252,157],[372,1573,251,305],[1335,394,226,226],[1192,1747,190,190],[756,0,718,178],[0,0,754,178],[656,180,639,178],[625,1779,373,178],[0,796,568,204],[295,1186,506,204],[0,590,590,204],[625,1573,336,204],[0,384,613,204],[1476,0,551,204],[994,940,288,204],[1704,932,226,204],[0,1852,370,179],[0,1573,370,277],[622,831,370,179],[295,1392,554,179],[1938,690,110,280],[1932,972,109,280],[1471,1114,185,230],[1302,864,199,240],[1532,1710,113,280],[1146,1536,181,209],[1647,1711,113,280],[1877,1716,110,280],[1762,1716,113,280],[1678,1485,144,224],[1503,872,199,240],[1824,1522,167,192]]},
+		{name:"Purple Pikachu Platform Jump_atlas_8", frames: [[407,616,55,26],[1089,1734,54,26],[142,1847,118,155],[0,0,224,135],[355,1963,120,67],[895,1090,120,67],[998,1780,89,120],[537,966,90,120],[1957,1549,58,97],[0,701,58,97],[796,172,72,110],[537,1682,184,122],[717,646,177,146],[877,0,177,146],[877,148,177,146],[796,296,177,146],[783,444,177,146],[717,794,177,146],[310,818,177,146],[489,818,177,146],[668,942,177,146],[0,984,177,146],[179,984,177,146],[358,966,177,146],[847,942,177,146],[975,296,177,146],[1056,0,177,146],[1056,148,177,146],[962,444,177,146],[896,592,177,146],[896,740,177,146],[1026,888,177,146],[1154,296,177,146],[1235,0,177,146],[1235,148,177,146],[1141,444,177,146],[1075,592,177,146],[1075,740,177,146],[1026,1036,177,146],[358,1114,177,146],[0,1132,177,146],[179,1132,177,146],[537,1090,177,146],[716,1090,177,146],[895,1184,177,146],[358,1262,177,146],[0,1280,177,146],[179,1280,177,146],[537,1238,177,146],[716,1238,177,146],[1074,1184,177,146],[1205,888,177,146],[1333,296,177,146],[1414,0,177,146],[1414,148,177,146],[1320,444,177,146],[1254,592,177,146],[1254,740,177,146],[1205,1036,177,146],[1253,1184,177,146],[1384,888,177,146],[1499,444,177,146],[1593,0,177,146],[1593,148,177,146],[1512,296,177,146],[1433,592,177,146],[1433,740,177,146],[1384,1036,177,146],[1432,1184,177,146],[1563,888,177,146],[1612,592,177,146],[1691,296,177,146],[1772,0,177,146],[1772,148,177,146],[1678,444,177,146],[1612,740,177,146],[1563,1036,177,146],[1611,1184,177,146],[1742,888,177,146],[1742,1036,177,146],[1791,592,177,146],[1857,444,177,146],[1791,740,177,146],[1790,1184,177,146],[895,1332,177,146],[358,1410,177,146],[0,1428,177,146],[179,1428,177,146],[537,1386,177,146],[716,1386,177,146],[1074,1332,177,146],[1253,1332,177,146],[1432,1332,177,146],[1611,1332,177,146],[1790,1332,177,146],[895,1480,177,146],[358,1558,177,146],[0,1576,177,146],[179,1576,177,146],[537,1534,177,146],[716,1534,177,146],[1074,1480,177,146],[473,474,153,170],[97,640,153,170],[252,640,153,170],[628,474,153,170],[722,0,153,170],[641,172,153,170],[407,646,153,170],[0,812,153,170],[155,812,153,170],[562,646,153,170],[1188,1628,41,81],[651,1898,131,76],[265,523,204,91],[373,0,347,76],[373,78,347,76],[1867,1724,128,58],[719,1992,135,47],[1742,1888,135,47],[509,1806,140,114],[641,344,131,124],[723,1682,131,124],[986,1902,97,98],[793,1808,58,38],[226,0,145,197],[305,199,163,163],[358,1706,149,149],[895,1628,151,150],[1330,1801,176,65],[1444,1632,249,77],[0,1872,129,129],[310,966,39,14],[1444,1592,33,17],[793,1848,39,14],[1444,1611,33,17],[1463,1868,43,52],[373,156,88,40],[1870,296,140,146],[0,1724,140,146],[0,419,95,280],[0,137,102,280],[207,199,96,280],[1970,592,52,280],[1939,1883,45,124],[597,1976,120,67],[1444,1711,140,88],[1835,1586,120,67],[305,364,166,157],[1188,1714,140,88],[1923,1480,120,67],[97,481,166,157],[856,1780,140,88],[1799,1819,120,67],[470,156,166,157],[1667,1941,152,30],[651,1808,140,88],[986,1870,9,9],[1867,1655,120,67],[473,315,166,157],[1253,1480,233,110],[104,137,101,280],[1921,888,54,280],[793,1870,89,120],[1508,1801,90,120],[1951,0,68,280],[986,2002,88,40],[1879,1888,58,97],[1921,1784,58,97],[1668,1829,72,110],[1253,1592,189,120],[1835,1655,26,33],[834,1848,11,11],[1488,1480,153,150],[1867,1784,44,33],[1643,1586,44,33],[884,1971,100,71],[355,1857,138,104],[1330,1714,100,71],[1643,1480,138,104],[1463,1923,100,71],[1048,1628,138,104],[1565,1923,100,71],[1695,1586,138,104],[495,1922,100,99],[1783,1480,138,104],[884,1870,100,99],[1191,1804,97,97],[1089,1804,100,99],[1290,1868,97,97],[1389,1868,72,129],[1191,1903,97,97],[1600,1711,66,129],[1085,1905,97,97],[142,1724,158,121],[0,2003,133,32],[1695,1692,102,135],[1742,1829,40,57],[1799,1692,66,125],[262,1847,91,183]]}
 ];
 
 
@@ -35,70 +35,70 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_315 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_405 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_314 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_313 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_404 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+(lib.CachedBmp_312 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_311 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_403 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_310 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_309 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_402 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+(lib.CachedBmp_308 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_307 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_306 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
@@ -110,106 +110,106 @@ lib.ssMetadata = [
 p.nominalBounds = new cjs.Rectangle(0,0,2298,500);
 
 
-(lib.CachedBmp_401 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_304 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_400 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_302 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_399 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_301 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_398 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_300 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_397 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_298 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_396 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_297 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_296 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_295 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_294 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_293 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_292 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_291 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_290 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_289 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_288 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
@@ -223,812 +223,812 @@ p.nominalBounds = new cjs.Rectangle(0,0,2298,500);
 
 
 (lib.CachedBmp_286 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_285 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_284 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_283 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_282 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_281 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_280 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_279 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_278 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_277 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_276 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_275 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_274 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_273 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_272 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_271 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_270 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_269 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_268 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_267 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_266 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_265 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_264 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_263 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_262 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_261 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_260 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_259 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_258 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_257 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_256 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_255 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_254 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_253 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_252 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_251 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_250 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_249 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_248 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_247 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_246 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_245 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_244 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_243 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_242 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_241 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_240 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_239 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_238 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_237 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_236 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_235 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_234 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_233 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_232 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_231 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_230 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_229 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_228 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_227 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_226 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_225 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_224 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_223 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_222 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(75);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_221 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_220 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_219 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_218 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_217 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_216 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_215 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_214 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_213 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_212 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_211 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_210 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_209 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(88);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_208 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(89);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_207 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_206 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_205 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_204 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_203 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_202 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_201 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_200 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_199 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_198 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_197 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_196 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(101);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_195 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_194 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_193 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_192 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_191 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_190 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_189 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_188 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_187 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_186 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_185 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_184 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_182 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_181 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_180 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_179 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_178 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_177 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_176 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_175 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_174 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_173 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_172 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_171 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_170 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
@@ -1042,125 +1042,125 @@ p.nominalBounds = new cjs.Rectangle(0,0,2298,500);
 
 
 (lib.CachedBmp_168 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_395 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_167 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_394 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_166 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_393 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_162 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_392 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+(lib.CachedBmp_161 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_160 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_391 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_158 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_390 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_157 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_389 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_153 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_388 = function() {
+(lib.CachedBmp_152 = function() {
 	this.initialize(ss["Purple Pikachu Platform Jump_atlas_6"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_387 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_151 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_386 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_150 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_385 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_146 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_384 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+(lib.CachedBmp_145 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_383 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_144 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_382 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_143 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_381 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_139 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_380 = function() {
+(lib.CachedBmp_138 = function() {
 	this.initialize(ss["Purple Pikachu Platform Jump_atlas_6"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
@@ -1168,49 +1168,49 @@ p.nominalBounds = new cjs.Rectangle(0,0,2298,500);
 
 
 (lib.CachedBmp_137 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_136 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_135 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_134 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_133 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_132 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_131 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
@@ -1223,21 +1223,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,2444,1459);
 
 
 (lib.CachedBmp_129 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_128 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_127 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
@@ -1271,14 +1271,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,4838,679);
 
 
 (lib.CachedBmp_122 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_183 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
@@ -1299,56 +1299,56 @@ p.nominalBounds = new cjs.Rectangle(0,0,4838,679);
 
 
 (lib.CachedBmp_118 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_117 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_116 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_115 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_114 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_113 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_112 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_111 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(135);
 }).prototype = p = new cjs.Sprite();
 
@@ -1361,7 +1361,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_109 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
@@ -1396,7 +1396,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_104 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
@@ -1417,14 +1417,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_101 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_100 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
@@ -1445,7 +1445,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_97 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
@@ -1459,14 +1459,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_95 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_94 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
@@ -1480,7 +1480,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_92 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
@@ -1501,42 +1501,42 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_89 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_88 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_87 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_86 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_85 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_84 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
@@ -1550,14 +1550,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_82 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_81 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
@@ -1571,42 +1571,42 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_79 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_78 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_77 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_76 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_75 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_74 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
@@ -1620,328 +1620,328 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_72 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_71 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_70 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_69 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(140);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_68 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(141);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_67 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(142);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_66 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(143);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_65 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(144);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_379 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_64 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_378 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_62 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(145);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_377 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_61 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_376 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_60 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(146);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_375 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_59 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(147);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_374 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_58 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_373 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_57 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(149);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_372 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_56 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(150);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_371 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_55 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_370 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_54 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(152);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_369 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_53 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_368 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_52 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_51 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_367 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_50 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_303 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_366 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_48 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_365 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_47 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_46 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_45 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_44 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_43 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_42 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_41 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_40 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_39 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_38 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_37 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_36 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_35 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_34 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_33 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_32 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_31 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_364 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+(lib.CachedBmp_30 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_363 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_29 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_164 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_165 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_362 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+(lib.CachedBmp_25 = function() {
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_361 = function() {
+(lib.CachedBmp_24 = function() {
 	this.initialize(ss["Purple Pikachu Platform Jump_atlas_6"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
@@ -1949,217 +1949,217 @@ p.nominalBounds = new cjs.Rectangle(0,0,3689,992);
 
 
 (lib.CachedBmp_23 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(174);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_21 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(175);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(176);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_19 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(177);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(178);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(179);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(180);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_15 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(181);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_14 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(182);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_13 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(183);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(184);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(185);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(186);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(187);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(188);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(189);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(190);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(191);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(192);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(193);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(194);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_5"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_7"]);
 	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._12thFinalBosstommyb9 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._13thFinalBosstommyb9 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._7thFinalBosstommyb9 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap1 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(195);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap11 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(196);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap12 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap4 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(198);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap9 = function() {
-	this.initialize(ss["Purple Pikachu Platform Jump_atlas_3"]);
+	this.initialize(ss["Purple Pikachu Platform Jump_atlas_8"]);
 	this.gotoAndStop(199);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -7795,7 +7795,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_315();
 	this.instance.setTransform(29.85,-21,0.1395,0.1395);
 
-	this.instance_1 = new lib.CachedBmp_405();
+	this.instance_1 = new lib.CachedBmp_314();
 	this.instance_1.setTransform(-45.85,-36.25,0.1395,0.1395);
 
 	this.instance_2 = new lib.Path_0();
@@ -7805,7 +7805,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_3 = new lib.CachedBmp_313();
 	this.instance_3.setTransform(23.95,-18.55,0.1395,0.1395);
 
-	this.instance_4 = new lib.CachedBmp_404();
+	this.instance_4 = new lib.CachedBmp_312();
 	this.instance_4.setTransform(-65.35,-27.15,0.1395,0.1395);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -7831,7 +7831,7 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_311();
 	this.instance.setTransform(-72.2,-18.7,0.1395,0.1395);
 
-	this.instance_1 = new lib.CachedBmp_403();
+	this.instance_1 = new lib.CachedBmp_310();
 	this.instance_1.setTransform(-17.3,-36.15,0.1395,0.1395);
 
 	this.instance_2 = new lib.Path();
@@ -7841,7 +7841,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_3 = new lib.CachedBmp_309();
 	this.instance_3.setTransform(-32.35,-19.6,0.1395,0.1395);
 
-	this.instance_4 = new lib.CachedBmp_402();
+	this.instance_4 = new lib.CachedBmp_308();
 	this.instance_4.setTransform(-34.5,-27.1,0.1395,0.1395);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -7864,7 +7864,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_401();
+	this.instance = new lib.CachedBmp_304();
 	this.instance.setTransform(-34.35,-12.75,0.5,0.5);
 
 	this.instance_1 = new lib.CachedBmp_303();
@@ -7876,7 +7876,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_3 = new lib.ClipGroup_1_0();
 	this.instance_3.setTransform(22.95,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_4 = new lib.CachedBmp_400();
+	this.instance_4 = new lib.CachedBmp_302();
 	this.instance_4.setTransform(-24.85,12.45,0.5,0.5);
 
 	this.instance_5 = new lib.ClipGroupcopy();
@@ -7885,7 +7885,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_6 = new lib.ClipGroup_1();
 	this.instance_6.setTransform(-23.35,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_7 = new lib.CachedBmp_399();
+	this.instance_7 = new lib.CachedBmp_301();
 	this.instance_7.setTransform(-80.6,-18.55,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -7908,7 +7908,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance_1 = new lib.CachedBmp_398();
+	this.instance_1 = new lib.CachedBmp_300();
 	this.instance_1.setTransform(-34.35,-60.25,0.5,0.5);
 
 	this.instance_2 = new lib.CachedBmp_303();
@@ -7920,7 +7920,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_4 = new lib.ClipGroup_1_0();
 	this.instance_4.setTransform(22.95,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_5 = new lib.CachedBmp_397();
+	this.instance_5 = new lib.CachedBmp_298();
 	this.instance_5.setTransform(-24.85,12.45,0.5,0.5);
 
 	this.instance_6 = new lib.ClipGroupcopy();
@@ -7929,7 +7929,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_7 = new lib.ClipGroup_1();
 	this.instance_7.setTransform(-23.35,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_8 = new lib.CachedBmp_396();
+	this.instance_8 = new lib.CachedBmp_297();
 	this.instance_8.setTransform(-58.15,-60.15,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1}]}).wait(1));
@@ -8245,10 +8245,10 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.pikachu_dot_ground_fix).wait(5));
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_383();
+	this.instance = new lib.CachedBmp_144();
 	this.instance.setTransform(-48.05,-92.7,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_382();
+	this.instance_1 = new lib.CachedBmp_143();
 	this.instance_1.setTransform(-16.85,-208.45,0.5,0.5);
 
 	this.instance_2 = new lib.CachedBmp_165();
@@ -8272,10 +8272,10 @@ if (reversed == null) { reversed = false; }
 	this.instance_8 = new lib.ClipGroup_1();
 	this.instance_8.setTransform(-25.8,-131.4,1,1,0,0,0,12.7,12.7);
 
-	this.instance_9 = new lib.CachedBmp_381();
+	this.instance_9 = new lib.CachedBmp_139();
 	this.instance_9.setTransform(-60.6,-208.35,0.5,0.5);
 
-	this.instance_10 = new lib.CachedBmp_380();
+	this.instance_10 = new lib.CachedBmp_138();
 	this.instance_10.setTransform(-61.85,-172.5,0.5,0.5);
 
 	this.instance_11 = new lib.Tween10copy("synched",0);
@@ -8299,16 +8299,16 @@ if (reversed == null) { reversed = false; }
 	this.instance_17 = new lib.Tween9("synched",0);
 	this.instance_17.setTransform(91.8,-26.25,1,1,51.4411,0,0,0.1,-0.1);
 
-	this.instance_18 = new lib.CachedBmp_387();
+	this.instance_18 = new lib.CachedBmp_151();
 	this.instance_18.setTransform(-48.05,-92.7,0.5,0.5);
 
-	this.instance_19 = new lib.CachedBmp_386();
+	this.instance_19 = new lib.CachedBmp_150();
 	this.instance_19.setTransform(-17.15,-208.45,0.5,0.5);
 
-	this.instance_20 = new lib.CachedBmp_385();
+	this.instance_20 = new lib.CachedBmp_146();
 	this.instance_20.setTransform(-60.6,-208.35,0.5,0.5);
 
-	this.instance_21 = new lib.CachedBmp_384();
+	this.instance_21 = new lib.CachedBmp_145();
 	this.instance_21.setTransform(-129.45,-295.75,0.5,0.5);
 
 	this.instance_22 = new lib.CachedBmp_160();
@@ -8327,28 +8327,28 @@ if (reversed == null) { reversed = false; }
 	this.instance_25.filters = [new cjs.BlurFilter(3, 3, 1)];
 	this.instance_25.cache(-12,-4,25,45);
 
-	this.instance_26 = new lib.CachedBmp_391();
+	this.instance_26 = new lib.CachedBmp_158();
 	this.instance_26.setTransform(-48.05,-91.85,0.5,0.5);
 
-	this.instance_27 = new lib.CachedBmp_390();
+	this.instance_27 = new lib.CachedBmp_157();
 	this.instance_27.setTransform(-17.15,-208.45,0.5,0.5);
 
-	this.instance_28 = new lib.CachedBmp_389();
+	this.instance_28 = new lib.CachedBmp_153();
 	this.instance_28.setTransform(-60.6,-208.35,0.5,0.5);
 
-	this.instance_29 = new lib.CachedBmp_388();
+	this.instance_29 = new lib.CachedBmp_152();
 	this.instance_29.setTransform(-87.05,-172.5,0.5,0.5);
 
-	this.instance_30 = new lib.CachedBmp_395();
+	this.instance_30 = new lib.CachedBmp_167();
 	this.instance_30.setTransform(-48.05,-92.7,0.5,0.5);
 
-	this.instance_31 = new lib.CachedBmp_394();
+	this.instance_31 = new lib.CachedBmp_166();
 	this.instance_31.setTransform(-17.15,-208.45,0.5,0.5);
 
-	this.instance_32 = new lib.CachedBmp_393();
+	this.instance_32 = new lib.CachedBmp_162();
 	this.instance_32.setTransform(-60.6,-208.35,0.5,0.5);
 
-	this.instance_33 = new lib.CachedBmp_392();
+	this.instance_33 = new lib.CachedBmp_161();
 	this.instance_33.setTransform(-165.1,-305.6,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11}]},1).to({state:[{t:this.instance_21},{t:this.instance_20},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_19},{t:this.instance_18}]},1).to({state:[{t:this.instance_29},{t:this.instance_28},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22}]},1).to({state:[{t:this.instance_33},{t:this.instance_32},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_31},{t:this.instance_30}]},1).wait(1));
@@ -8890,13 +8890,13 @@ if (reversed == null) { reversed = false; }
 		this.stop()
 	}
 	this.frame_2 = function() {
-		playSound("_456_popaso35703");
+		playSound("SpeedMaroon");
 	}
 	this.frame_40 = function() {
 		this.stop()
 	}
 	this.frame_42 = function() {
-		playSound("_456_popaso35703");
+		playSound("SpeedMaroon");
 	}
 
 	// actions tween:
@@ -10013,7 +10013,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_379();
+	this.instance = new lib.CachedBmp_64();
 	this.instance.setTransform(-34.35,-60.25,0.5,0.5);
 
 	this.instance_1 = new lib.CachedBmp_303();
@@ -10025,7 +10025,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_3 = new lib.ClipGroup_1_0copy();
 	this.instance_3.setTransform(22.95,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_4 = new lib.CachedBmp_378();
+	this.instance_4 = new lib.CachedBmp_62();
 	this.instance_4.setTransform(-24.85,12.45,0.5,0.5);
 
 	this.instance_5 = new lib.ClipGroupcopy_1();
@@ -10034,7 +10034,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_6 = new lib.ClipGroup_1copy();
 	this.instance_6.setTransform(-23.35,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_7 = new lib.CachedBmp_377();
+	this.instance_7 = new lib.CachedBmp_61();
 	this.instance_7.setTransform(-58.15,-60.15,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -10078,7 +10078,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_11 = new lib.CachedBmp_51();
 	this.instance_11.setTransform(-37.7,49.5,0.5,0.5);
 
-	this.instance_12 = new lib.CachedBmp_367();
+	this.instance_12 = new lib.CachedBmp_50();
 	this.instance_12.setTransform(-34.35,10.75,0.5,0.5);
 
 	this.instance_13 = new lib.CachedBmp_303();
@@ -10090,7 +10090,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_15 = new lib.ClipGroup_1_0copy();
 	this.instance_15.setTransform(22.95,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_16 = new lib.CachedBmp_366();
+	this.instance_16 = new lib.CachedBmp_48();
 	this.instance_16.setTransform(-24.85,12.45,0.5,0.5);
 
 	this.instance_17 = new lib.ClipGroupcopy_1();
@@ -10099,34 +10099,34 @@ if (reversed == null) { reversed = false; }
 	this.instance_18 = new lib.ClipGroup_1copy();
 	this.instance_18.setTransform(-23.35,16.8,1,1,0,0,0,12.7,12.7);
 
-	this.instance_19 = new lib.CachedBmp_365();
+	this.instance_19 = new lib.CachedBmp_47();
 	this.instance_19.setTransform(-41.35,-18.55,0.5,0.5);
 
-	this.instance_20 = new lib.CachedBmp_370();
+	this.instance_20 = new lib.CachedBmp_54();
 	this.instance_20.setTransform(-34.35,10.75,0.5,0.5);
 
-	this.instance_21 = new lib.CachedBmp_369();
+	this.instance_21 = new lib.CachedBmp_53();
 	this.instance_21.setTransform(-24.85,12.45,0.5,0.5);
 
-	this.instance_22 = new lib.CachedBmp_368();
+	this.instance_22 = new lib.CachedBmp_52();
 	this.instance_22.setTransform(-41.35,-18.55,0.5,0.5);
 
-	this.instance_23 = new lib.CachedBmp_373();
+	this.instance_23 = new lib.CachedBmp_57();
 	this.instance_23.setTransform(-34.35,10.75,0.5,0.5);
 
-	this.instance_24 = new lib.CachedBmp_372();
+	this.instance_24 = new lib.CachedBmp_56();
 	this.instance_24.setTransform(-24.85,12.45,0.5,0.5);
 
-	this.instance_25 = new lib.CachedBmp_371();
+	this.instance_25 = new lib.CachedBmp_55();
 	this.instance_25.setTransform(-41.35,-18.55,0.5,0.5);
 
-	this.instance_26 = new lib.CachedBmp_376();
+	this.instance_26 = new lib.CachedBmp_60();
 	this.instance_26.setTransform(-34.35,10.75,0.5,0.5);
 
-	this.instance_27 = new lib.CachedBmp_375();
+	this.instance_27 = new lib.CachedBmp_59();
 	this.instance_27.setTransform(-24.85,12.45,0.5,0.5);
 
-	this.instance_28 = new lib.CachedBmp_374();
+	this.instance_28 = new lib.CachedBmp_58();
 	this.instance_28.setTransform(-41.35,-18.55,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11}]}).to({state:[{t:this.instance_22},{t:this.instance_18},{t:this.instance_17},{t:this.instance_21},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_20},{t:this.instance_11}]},10).to({state:[]},1).to({state:[{t:this.instance_25},{t:this.instance_18},{t:this.instance_17},{t:this.instance_24},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_23},{t:this.instance_11}]},88).to({state:[{t:this.instance_28},{t:this.instance_18},{t:this.instance_17},{t:this.instance_27},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_26},{t:this.instance_11}]},20).to({state:[]},1).wait(26));
@@ -10149,10 +10149,10 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_364();
+	this.instance = new lib.CachedBmp_30();
 	this.instance.setTransform(-6.7,54.1,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_363();
+	this.instance_1 = new lib.CachedBmp_29();
 	this.instance_1.setTransform(24.85,-95.05,0.5,0.5);
 
 	this.instance_2 = new lib.CachedBmp_165();
@@ -10176,10 +10176,10 @@ if (reversed == null) { reversed = false; }
 	this.instance_8 = new lib.ClipGroup_1_1();
 	this.instance_8.setTransform(15.55,-18,1,1,0,0,0,12.7,12.7);
 
-	this.instance_9 = new lib.CachedBmp_362();
+	this.instance_9 = new lib.CachedBmp_25();
 	this.instance_9.setTransform(-19.25,-94.95,0.5,0.5);
 
-	this.instance_10 = new lib.CachedBmp_361();
+	this.instance_10 = new lib.CachedBmp_24();
 	this.instance_10.setTransform(-26.75,-59.1,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -13230,7 +13230,7 @@ if (reversed == null) { reversed = false; }
 		this.stop()
 	}
 	this.frame_14 = function() {
-		playSound("_1531_dropsplosh");
+		playSound("Dropsplosh");
 	}
 	this.frame_75 = function() {
 		this.stop()
@@ -18530,36 +18530,36 @@ lib.properties = {
 	color: "#608DBF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_305.png?1694800661827", id:"CachedBmp_305"},
-		{src:"images/CachedBmp_130.png?1694800661827", id:"CachedBmp_130"},
-		{src:"images/CachedBmp_125.png?1694800661827", id:"CachedBmp_125"},
-		{src:"images/CachedBmp_110.png?1694800661827", id:"CachedBmp_110"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_1.png?1694800660594", id:"Purple Pikachu Platform Jump_atlas_1"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_2.png?1694800660594", id:"Purple Pikachu Platform Jump_atlas_2"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_3.png?1694800660598", id:"Purple Pikachu Platform Jump_atlas_3"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_4.png?1694800660598", id:"Purple Pikachu Platform Jump_atlas_4"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_5.png?1694800660600", id:"Purple Pikachu Platform Jump_atlas_5"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_6.png?1694800660600", id:"Purple Pikachu Platform Jump_atlas_6"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_7.png?1694800660601", id:"Purple Pikachu Platform Jump_atlas_7"},
-		{src:"images/Purple Pikachu Platform Jump_atlas_8.png?1694800660606", id:"Purple Pikachu Platform Jump_atlas_8"},
-		{src:"sounds/_1531_dropsplosh.mp3?1694800661827", id:"_1531_dropsplosh"},
-		{src:"sounds/_456_popaso35703.mp3?1694800661827", id:"_456_popaso35703"},
-		{src:"sounds/AElecBasswavcopy.mp3?1694800661827", id:"AElecBasswavcopy"},
-		{src:"sounds/A60AmbiencePPPJ.mp3?1694800661827", id:"A60AmbiencePPPJ"},
-		{src:"sounds/CoinDrop.mp3?1694800661827", id:"CoinDrop"},
-		{src:"sounds/FallBreakBone.mp3?1694800661827", id:"FallBreakBone"},
-		{src:"sounds/FallDown.mp3?1694800661827", id:"FallDown"},
-		{src:"sounds/FlyingHackerMosquitowav.mp3?1694800661827", id:"FlyingHackerMosquitowav"},
-		{src:"sounds/JumpMech.mp3?1694800661827", id:"JumpMech"},
-		{src:"sounds/JumpPPPJ.mp3?1694800661827", id:"JumpPPPJ"},
-		{src:"sounds/OverloadPowerChangedSound.mp3?1694800661827", id:"OverloadPowerChangedSound"},
-		{src:"sounds/PikachuHurt.mp3?1694800661827", id:"PikachuHurt"},
-		{src:"sounds/PowerFlying.mp3?1694800661827", id:"PowerFlying"},
-		{src:"sounds/SpawnOverload.mp3?1694800661827", id:"SpawnOverload"},
-		{src:"sounds/SuctionCup.mp3?1694800661827", id:"SuctionCup"},
-		{src:"sounds/UntitledSession21.mp3?1694800661827", id:"UntitledSession21"},
-		{src:"sounds/WaterDrop.mp3?1694800661827", id:"WaterDrop"},
-		{src:"sounds/werwefweg.mp3?1694800661827", id:"werwefweg"}
+		{src:"images/CachedBmp_305.png?1694801871405", id:"CachedBmp_305"},
+		{src:"images/CachedBmp_130.png?1694801871405", id:"CachedBmp_130"},
+		{src:"images/CachedBmp_125.png?1694801871405", id:"CachedBmp_125"},
+		{src:"images/CachedBmp_110.png?1694801871405", id:"CachedBmp_110"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_1.png?1694801869482", id:"Purple Pikachu Platform Jump_atlas_1"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_2.png?1694801869483", id:"Purple Pikachu Platform Jump_atlas_2"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_3.png?1694801869483", id:"Purple Pikachu Platform Jump_atlas_3"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_4.png?1694801869484", id:"Purple Pikachu Platform Jump_atlas_4"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_5.png?1694801869485", id:"Purple Pikachu Platform Jump_atlas_5"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_6.png?1694801869486", id:"Purple Pikachu Platform Jump_atlas_6"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_7.png?1694801869488", id:"Purple Pikachu Platform Jump_atlas_7"},
+		{src:"images/Purple Pikachu Platform Jump_atlas_8.png?1694801869493", id:"Purple Pikachu Platform Jump_atlas_8"},
+		{src:"sounds/AElecBasswavcopy.mp3?1694801871405", id:"AElecBasswavcopy"},
+		{src:"sounds/A60AmbiencePPPJ.mp3?1694801871405", id:"A60AmbiencePPPJ"},
+		{src:"sounds/CoinDrop.mp3?1694801871405", id:"CoinDrop"},
+		{src:"sounds/Dropsplosh.mp3?1694801871405", id:"Dropsplosh"},
+		{src:"sounds/FallBreakBone.mp3?1694801871405", id:"FallBreakBone"},
+		{src:"sounds/FallDown.mp3?1694801871405", id:"FallDown"},
+		{src:"sounds/FlyingHackerMosquitowav.mp3?1694801871405", id:"FlyingHackerMosquitowav"},
+		{src:"sounds/JumpMech.mp3?1694801871405", id:"JumpMech"},
+		{src:"sounds/JumpPPPJ.mp3?1694801871405", id:"JumpPPPJ"},
+		{src:"sounds/OverloadPowerChangedSound.mp3?1694801871405", id:"OverloadPowerChangedSound"},
+		{src:"sounds/PikachuHurt.mp3?1694801871405", id:"PikachuHurt"},
+		{src:"sounds/PowerFlying.mp3?1694801871405", id:"PowerFlying"},
+		{src:"sounds/SpawnOverload.mp3?1694801871405", id:"SpawnOverload"},
+		{src:"sounds/SpeedMaroon.mp3?1694801871405", id:"SpeedMaroon"},
+		{src:"sounds/SuctionCup.mp3?1694801871405", id:"SuctionCup"},
+		{src:"sounds/UntitledSession21.mp3?1694801871405", id:"UntitledSession21"},
+		{src:"sounds/WaterDrop.mp3?1694801871405", id:"WaterDrop"},
+		{src:"sounds/werwefweg.mp3?1694801871405", id:"werwefweg"}
 	],
 	preloads: []
 };
